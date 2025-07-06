@@ -61,3 +61,12 @@ AI enhances nursing practice by providing predictive analytics for patient monit
 
 4. **Healthcare Equity:** AI tools can help standardize care quality across different providers and geographic regions.
 
+
+**Case Study Critique: AI in Smart Cities – Traffic Management**
+
+The integration of Artificial Intelligence (AI) with the Internet of Things (IoT) significantly enhances urban sustainability through efficient traffic management. The article *“AI-IoT for Traffic Management”* highlights how AI algorithms, when paired with real-time data from IoT devices such as sensors, traffic cameras, and GPS systems, can optimize traffic flow, reduce congestion, and lower greenhouse gas emissions. By analyzing traffic patterns in real time, AI can dynamically adjust traffic signals, reroute vehicles, and provide predictive analytics for city planners. This leads to a reduction in idle time, fuel consumption, and overall pollution levels, directly contributing to more sustainable urban environments.
+
+However, two key challenges arise from this integration. First is **data security**. The vast amount of sensitive, real-time data collected from vehicles and infrastructure is vulnerable to cyberattacks, which could disrupt traffic systems or lead to privacy violations. Second is **interoperability and infrastructure limitations**. Many cities operate on outdated or fragmented systems, making it difficult to integrate AI-IoT solutions seamlessly. Without standardized protocols or upgraded infrastructure, the effectiveness of AI-driven traffic management remains limited.
+
+Overall, while AI-IoT integration presents a promising solution for urban sustainability, addressing security and infrastructure challenges is critical for long-term success.
+
